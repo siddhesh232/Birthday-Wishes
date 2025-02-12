@@ -7,6 +7,13 @@ body {
   font-family: "Work Sans", sans-serif;
 }
 
+/* Apply the Arizonia font to the name */
+/* .arizonia-font { */
+  /* font-family: 'Arizonia', cursive; */
+  /* font-size: 3rem; Adjust as needed */
+  /* color: #ff4081; Optional: Change color */
+/* } */
+
 .container {
   height: 100vh;
   width: 100vh;
