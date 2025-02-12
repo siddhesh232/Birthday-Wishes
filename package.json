@@ -15,5 +15,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Siddhesh Dandekar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.12.7"
+  }
 }
